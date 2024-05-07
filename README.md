@@ -6,14 +6,14 @@
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
 
 ## REQUIREMENTS: 
-1. Autodesk fusion 360
+1. Autodesk Fusion 360
 2. Windows 10
 3. 4 GB of RAM (integrated graphics recommend 6 GB or more)
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## COMMANDS USED:
 ### Align: 
-The Align tool allows you to align, distribute or organize selected elements, annotations, tags and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
+The Align tool allows you to align, distribute, or organize selected elements, annotations, tags, and text along the axis you specify. Furthermore, the Arrange feature will automatically neatly place your tags around the current view.
 The Align plug-in for Autodesk® Revit® can help to save time while producing complex drawings with large sets of annotation.
 Just select a few elements and the Align tool will sort them for you.
 
@@ -29,7 +29,7 @@ Select the objects to modify then specify the distance or angle. Use set pivot t
  Identifying the given model.
 
 ### STEP 2: Importing the components.
-Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
+Firstly, we import all the necessary parts into the assembly project. Here, we use Finger, gear linkage, Secondary Linkage, and Base. For, Importing the components into the project, we use the insert derive option in the Insert>Insert Derive.
 
 ### STEP 3: 
 We place the base model onto the X-Y plane.
@@ -63,6 +63,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199413636-df0a61ce-964f-490d-9a16-e5986ebbf403.png)
 
 ## OUTPUT:
+![image](https://github.com/guru14789/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/151705853/435a1b03-ac99-442a-8cd9-c4e5fc2d11e7)
+
 
 ## RESULT:
-Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
+Thus, the design of various parts of a mechanical component and assembling it using a bottom-up approach in an orthographic view has been done
